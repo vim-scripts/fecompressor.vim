@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3453
+
+fecompressor.vim is designed to auto execute compressor programes while edit and saving files used in the front end. It supports js, css, less and scss. (Yes, I know less and scss are not compressor)
+
+github repo: https://github.com/othree/fecompressor.vim
